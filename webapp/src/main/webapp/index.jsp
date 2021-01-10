@@ -1,3 +1,3 @@
-<h1>Hi Hello, Welcome to Simple DevOps Project !!   </h1>
+<h1> Alhamdoulilleh rabbi l3alamin, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using Ansible for valaxy technologies </h2>
 
